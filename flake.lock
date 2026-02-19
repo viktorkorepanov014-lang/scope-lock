@@ -22,13 +22,13 @@
       "locked": {
         "lastModified": 1746904237,
         "narHash": "sha256-3e+AVBczosP5dCLQmMoMEogM57gmZ2qrVSrmq9aResQ=",
-        "owner": "NixOS",
+        "owner": "viktor",
         "repo": "nixpkgs",
         "rev": "d89fc19e405cb2d55ce7cc114356846a0ee5e956",
         "type": "github"
       },
       "original": {
-        "owner": "NixOS",
+        "owner": "viktor",
         "ref": "nixos-unstable",
         "repo": "nixpkgs",
         "type": "github"
